@@ -15,4 +15,6 @@ with this device that will be put up or set-up along the bridges where magat and
 Objective
 
 The idea is to create a device for the flood prone municipalities of isabela,
-This device will be build with arduino uno, this device will monitor the water level on of the Cagayan river and Magat river once the water level has reach its critical level where the critical level The device will send warning messages on the contacts that was save on the device for evacuation and flood notice.Contact information of Baraggay Captains, Disaster Personnel, CIty/Municipality administrators will be save on the device where it will send the warning message.
+This device will be build with arduino uno, the  device will monitor the water level  of the Cagayan river and Magat river.
+Once the water level has reach its critical level the device will send warning messages on the contacts that was save on the device for evacuation and flood notice.
+Contact information of Baraggay Captains, Disaster Personnel, CIty/Municipality administrators will be save on the device where it will send the warning message.
