@@ -1,30 +1,18 @@
-
-
 Introduction,
 
 
-Now a days, technology has change the way of desciminating informaton.technology provides us help to get prepared  when it comes to different calamities, like floods, earchquakes and others. floods are calamity problems that when struk it is not easy to evade, but  if we are well informred ahead of time before this happens , we might be able evade and  the destructve power of this calamity.
+Now a days technology has change our way of disseminating information.
+Technology provides us enough informations to get prepared when it comes to different types of calamities like flooding.
 
 
-the province of isabela is  surrounded by rivers, like the cagayan river, and magat river,  where most of the river waters come from magat dam,.
-
-municipalities of isabela like aurora, cabatuan, cauayan, ilagan,gamu, naguilian tumauini and cabagan were often get flooded, and lot of families were being affected.  families were not able to evacute emmidiately since they were only depending on the Warning or Evacuation notice from Local municipalities Disaster risk management unit  and information or warning notice were not immediately dessiminated due to a lot of baranggays and most of the baranngays were too far from the poblacion.
-with this device that will be put up or set-up along the bridges where magat and cagayan river are  passing, this will provide fast and immediate warning infromation or evacuation notice to the public. 
+The province of isabela is surrounded by rivers like the Cagayan river, and Magat river.
+Municipalities of isabela like aurora, Cabatuan, Cauayan, Ilagan,Gamu, Naguilian Tumauini 
+and Cabagan often get flooded and lot of families were being affected since they were not able to evacuate immediately because they are only depending on the Warning or Evacuation notice from Local Municipalities Disaster risk management units and warning notice were not immediately disseminated due to, most of the baranggay were too far from the poblacion.
+with this device that will be put up or set-up along the bridges where magat and cagayan river are  passing, this will provide fast and immediate warning information or evacuation notice to the public. 
 
 
 
 Objective
 
-basically the idea is to create a device for the flood prone municipalities of isabela,
-
-this device will be build with arduino uno, 
-
-this device will monitor the water level on of the cagayan river and magat river . and it will be set up on the bridges where the two river passes 
-
-and once the water level has reach its critical level where the critical level will be set up on the device, 
-
-the device will send messages  on the contacts that was save on the device for evacuation and flood notice.
-
-Contact information of Baraggay Captains, Disaster Personnel, CIty/Municipality administrators  will be save on the device where it will send the warning message 
-
-
+The idea is to create a device for the flood prone municipalities of isabela,
+This device will be build with arduino uno, this device will monitor the water level on of the Cagayan river and Magat river once the water level has reach its critical level where the critical level The device will send warning messages on the contacts that was save on the device for evacuation and flood notice.Contact information of Baraggay Captains, Disaster Personnel, CIty/Municipality administrators will be save on the device where it will send the warning message.
